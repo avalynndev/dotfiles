@@ -1,7 +1,5 @@
 ZSH_THEME="robbyrussell"
 
-PROMPT='%1~ %#'
-
 # There are many other ways to customize your shell:
 # - Set variables
 # - Create aliases
